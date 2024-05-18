@@ -1,6 +1,6 @@
 # AutoDeletus
 
-AutoDeletus is a World of Warcraft addon designed to automatically delete or sell unwanted items based on user-defined criteria. 
+AutoDeletus is a World of Warcraft (WoW 3.3.5a 30300) addon designed to automatically delete or sell unwanted items based on user-defined criteria. 
 
 It helps keep your inventory clean and organized by removing items that you don't need.
 
